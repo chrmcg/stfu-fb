@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Make Facebook STFU!
 
-You can use the [editor on GitHub](https://github.com/chrmcg/stfu-fb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you need to focus on a particular Facebook page (like a class or project that conducts group discussions on Facebook) and would rather not be distracted by notifications and chat, this extension will remove that stuff!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* No blue bar at the top (no notification alerts)
+* No chat sidebar
+* Just you and that sweet sweet content
+![Screenshot](http://i.imgur.com/3Pd4o9L.png)
 
-### Markdown
+## Installation
+* This is a Chrome Extension, so it only works if you're visiting Facebook via Google Chrome (on desktop, not mobile)
+* Download [this project as a zip file](https://github.com/chrmcg/stfu-fb/archive/master.zip), put it somewhere on your computer, and unzip it
+* In Chrome, visit __chrome://extensions__ in your URL bar
+  * At the top right, check the box for "Developer mode"
+  * Click the "Load packed extension..." button
+  * Select the unzipped directory you downloaded
+  * The extension should appear in your list of extensions, with the title "STFU-FB"
+  * Make sure "Enabled" is checked for this new extension
+* Refresh Facebook; the top bar & chat bar should be gone
+* To get back to normal, head back over to __chrome://extensions__ and disable the extension
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrmcg/stfu-fb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## FAQ
+* Why do I have to disable the extension? Couldn't you add a button to restore the Facebook UI?
+  * I made this in five minutes as a minimum viable distraction-remover.
+  * Feel free to mess with `content.js` and send a pull request!
+* Is there a license for this code?
+  * You can do whatever you want: change, copy, paste, edit, sell, etc.
+* Why not release this as a real extension on the Chrome Web Store?
+  * ¯\\\_(ツ)\_/¯
