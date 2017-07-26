@@ -26,4 +26,4 @@ If you need to focus on a particular Facebook page (like a class or project that
 * Is there a license for this code?
   * You can do whatever you want: copy, paste, edit, sell, etc.
 * Why not release this as a real extension on the Chrome Web Store?
-  * ¯\\\_(ツ)\_/¯
+  * `¯\_(ツ)_/¯`
