@@ -20,10 +20,10 @@ If you need to focus on a particular Facebook page (like a class or project that
 * To get back to normal, head back over to __chrome://extensions__ and disable the extension
 
 ## FAQ
-* Why do I have to disable the extension? Couldn't you add a button to restore the Facebook UI?
+* Why do I have to disable the extension? Couldn't you add a button to restore the UI to its initial state?
   * I made this in five minutes as a minimum viable distraction-remover.
   * Feel free to mess with `content.js` and send a pull request!
 * Is there a license for this code?
-  * You can do whatever you want: change, copy, paste, edit, sell, etc.
+  * You can do whatever you want: copy, paste, edit, sell, etc.
 * Why not release this as a real extension on the Chrome Web Store?
   * ¯\\\_(ツ)\_/¯
